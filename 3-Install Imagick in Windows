@@ -13,4 +13,4 @@
 
 4- Download required Imagick binaries
   https://windows.php.net/downloads/pecl/deps/
-  - copy all CORE_* and IM_MOD_* file and pass into C:\xampp\apache\bin
+  - copy all CORE_*.dll and IM_MOD_*.dll file and pass into C:\xampp\apache\bin
